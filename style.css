@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+    /* color: lightblue; */
+    padding: 50px;
+}
+
+.header{
+    text-align: center;
+
+
+}
+
+.fotoCarlos {
+    float: right;
+
+}
+
+.quemSou {
+    float: left;
+    text-align: justify;
+
+}
+
+.nomeCarlos {
+    font-family: "Montserrat", sans-serif;
+    align-content: center;
+}  
+
+.lista {
+    font-size: large;
+}
+
+.esperiencia {
+    clear: both;
+}
