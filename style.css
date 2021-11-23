@@ -1,23 +1,27 @@
 body {
     background-color: lightblue;
     /* color: lightblue; */
-    padding: 50px;
+    padding: 100px;
 }
 
 .header{
     text-align: center;
-
+    padding-left: 50px;
 
 }
 
 .fotoCarlos {
+    width: 150px;
     float: right;
+    padding: 0px 50px;
 
 }
 
 .quemSou {
-    float: left;
+    /* float: left; */
     text-align: justify;
+    margin: 50px 100px;
+    vertical-align: bottom;
 
 }
 
@@ -32,4 +36,5 @@ body {
 
 .esperiencia {
     clear: both;
+    padding: 20px;
 }
